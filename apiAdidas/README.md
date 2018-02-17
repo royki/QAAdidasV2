@@ -31,3 +31,7 @@ Target Endpoint: https://www.adidas.fi/api/pages/landing?path=/
 - LandingPageAnalyticsComponent
 	* LandingPageAnalyticsData
 	* ValidateAnalyticsComponent(Script)
+- LandingPageInvalidDomain
+	* 510 Status www.adidas.com (Not Sure)
+- LandingPageInvalidRequest
+	* 404 Status
