@@ -1,7 +1,6 @@
 ### Automated Test of [![Adidas APIs]()](https://www.adidas.fi/api) with SOAPUI
 
-Tools
-
+- Environment & Tools
  * OS: Windows/Linux
  * Java7/Java8
  * maven2/maven3
