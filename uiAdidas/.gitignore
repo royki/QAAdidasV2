@@ -1,0 +1,9 @@
+*.json
+*.txt
+*.log
+*.sh
+target/
+logs/
+*.classpath     
+*.project       
+.settings/
