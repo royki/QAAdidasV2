@@ -11,8 +11,11 @@ Target Endpoint: https://www.adidas.fi/api/pages/landing?path=/
 
 ### Run Test Cases in local and generate report
 
- * Clone the repositry
+ * Clone the repositry and checkout the branch apiAdidas
+	- `git clone https://github.com/royki/QAAdidasV2.git`
+	- `git checkout apiAdidas`
  * Go to the directory 
+	- `cd apiAdidas`
  * run the following commad to execute test cases and generate reports
    - `mvn clean test`
  * To check the report - 
