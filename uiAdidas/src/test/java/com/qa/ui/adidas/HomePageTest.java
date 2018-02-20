@@ -1,16 +1,18 @@
-package com.qa.uiAdidas;
+package com.qa.ui.adidas;
 
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 
-import com.qa.uiAdidas.pages.HomePage;
+import com.qa.ui.adidas.TestBase;
+import com.qa.ui.adidas.pages.HomePage;
 
 import junit.framework.Assert;
 
 /**
  * @author royki
  */
+
 public class HomePageTest extends TestBase {
 	
 	HomePage hp;
