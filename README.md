@@ -14,6 +14,8 @@
 - `git checkout uiAdidas`
     - _Run the testsuite in Local_
         - `cd uiAdidas`
-        - `mvn clean test`
+        - `mvn clean site`
+	- _Check the testsuite result_
+        - Check `{$dir}/src/target/site/surefire-report.html` file
 
 
