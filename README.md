@@ -1,4 +1,4 @@
-# QAAdidasV2
+# QA
 
 - `git clone https://github.com/royki/QAAdidasV2.git`
 
