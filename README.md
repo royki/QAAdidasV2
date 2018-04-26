@@ -1,4 +1,4 @@
-# QA
+### Steps to follow
 
 - `git clone https://github.com/royki/QAAdidasV2.git`
 
