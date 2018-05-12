@@ -1,6 +1,6 @@
 ### Steps to follow
 
-- `git clone https://github.com/royki/QAAdidasV2.git`
+- `git clone https://github.com/royki/QAFramework.git`
 
 #### _Checkout API Branch_
 - `git checkout apiAdidas`
